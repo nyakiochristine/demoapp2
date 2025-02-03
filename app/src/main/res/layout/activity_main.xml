@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/gradient_background"
     tools:context=".MainActivity">
 
 
@@ -27,7 +28,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/cardview"
         app:cardCornerRadius="16dp"
-        app:cardBackgroundColor="@color/black"
+        app:cardBackgroundColor="@color/coral"
         android:padding="20dp">
 
         <LinearLayout
