@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="logoDescription">App Logo</string>
+    <string name="Usernamehint">Username</string>
+    <string name="Passwordhint">Password</string>
+    <string name="LoginText"> Login</string>
+    <string name="LoginMessage">Please Login Here</string>
+
+    </resources>
