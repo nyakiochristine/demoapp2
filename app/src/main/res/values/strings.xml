@@ -5,5 +5,14 @@
     <string name="Passwordhint">Password</string>
     <string name="LoginText"> Login</string>
     <string name="LoginMessage">Welcome to Our Book Club </string>
+    <string name="fullName">Full Name</string>
+    <string name="email">Enter Email</string>
+    <string name="gender">Select Gender</string>
+    <string name="maleOption">Male</string>
+    <string name="femaleOption">Female</string>
+    <string name="country">Select Country</string>
+    <string name="SignupText"> Sign Up</string>
+
+
 
 </resources>
